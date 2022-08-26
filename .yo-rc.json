@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.15.0",
+    "libraryName": "createlist",
+    "libraryId": "5f9aede3-1598-4e25-9a4a-83ad006cf135",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "createlist",
+    "solutionShortDescription": "createlist description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
